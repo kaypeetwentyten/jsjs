@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<body id="level6" onload="alert(1)">
-<p></p>
-document.getElementsByTagName("p").innerHTML = "Hello!";
+<body>
+<script>alert(1);</script>
+
 </body>
 </html>
