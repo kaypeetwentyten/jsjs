@@ -1,4 +1,5 @@
 <!DOCTYPE html>
-<body onload="alert(1)">
+<body>
+<script>alert(1)</script>
 </body>
 </html>
